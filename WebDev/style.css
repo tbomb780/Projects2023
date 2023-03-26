@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Trebuchet MS", sans-serif;
+  font-size: 2em;
+  letter-spacing: -2px;
+  border-bottom: 2px solid powderblue;
+  text-transform: uppercase;
+  text-align: center;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  background-image:url(background.jpg);
+  opacity: 1;
+}
