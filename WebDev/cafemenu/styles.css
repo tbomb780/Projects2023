@@ -30,11 +30,6 @@ body {
     padding: 20px;
     max-width: 500px;
   }
-  
-  h2 {
-    margin-bottom: 0; /* Remove the default bottom margin */
-  }
-  
   img {
     display: block;
     margin-left: auto;
